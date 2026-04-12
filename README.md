@@ -37,4 +37,6 @@ O relatório permite visualizar:
 * **CSV**: Fonte de dados estruturada.
 
 ---
-*Projeto desenvolvido por Millena Manuela como trabalho final de BI.*
+*Projeto desenvolvido por Millena e Manuela como trabalho final de BI.*
+
+
