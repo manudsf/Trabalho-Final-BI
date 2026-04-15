@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "top50spotify"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ffabfdb4-4f68-48ab-9d7d-d5f35e2afe66"
+  }
+}
