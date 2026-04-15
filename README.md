@@ -42,7 +42,7 @@ O relatório permite visualizar:
 ## 📂 Estrutura do Repositório
 * `top10_spotify_brasil.pbix`: Arquivo principal do Power BI com o dashboard.
 * `dados.csv`: Base de dados (posições, nomes das músicas, artistas, dias na lista e total de plays).
-* `/Imagens`: Demonstrações visuais (ex: `dashboard_1.png`, `dashboard_2.png`).
+* `/Imagens`: Demonstrações visuais
 
 ---
 
