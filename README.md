@@ -30,7 +30,7 @@ Este projeto utiliza dados extraídos do Spotify Brasil para analisar o desempen
 
 ---
 
-## 📊 Funcionalidades do Dashboard
+## Funcionalidades do Dashboard
 O relatório permite visualizar:
 * **Ranking de Popularidade:** As músicas com maior número de plays totais.
 * **Consistência dos Artistas:** Análise de "dias na lista" para identificar hits duradouros.
