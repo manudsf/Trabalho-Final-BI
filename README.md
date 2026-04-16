@@ -1,4 +1,4 @@
-# 🎵 Dashboard Spotify Brasil - Business Intelligence
+# Business Intelligence
 
 > **Desenvolvido por:** Millena e Manuela
 
@@ -40,20 +40,20 @@ O relatório permite visualizar:
 ---
 
 ## 📂 Estrutura do Repositório
-* `top10_spotify_brasil.pbix`: Arquivo principal do Power BI com o dashboard.
+* `top50_spotify_brasil.pbix`: Arquivo principal do Power BI com o dashboard.
 * `dados.csv`: Base de dados (posições, nomes das músicas, artistas, dias na lista e total de plays).
-* `/Imagens`: Demonstrações visuais
+* `/Imagens`: Demonstrações visuais do Dashs
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### Pré-requisitos
 * Ter o [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) instalado.
 
 ### Passo a Passo
 1.  Faça o download ou clone este repositório.
-2.  Abra o arquivo `top10_spotify_brasil.pbix` no Power BI Desktop.
+2.  Abra o arquivo `top50_spotify_brasil.pbix` no Power BI Desktop.
 3.  **Ajuste da Fonte de Dados (Caso necessário):**
     Se o Power BI exibir um erro de "Fonte de dados não encontrada":
     * Vá ao menu **Página Inicial** > **Transformar Dados** > **Configurações da fonte de dados**.
@@ -63,9 +63,10 @@ O relatório permite visualizar:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Power BI:** Construção de gráficos e ETL (Power Query).
 * **CSV:** Fonte de dados estruturada.
+* **Python:** Etl.
 
 ---
 **Documento de Escopo de BI - Projeto Spotify Brasil** *Trabalho Final de BI elaborado por Millena e Manuela.*
